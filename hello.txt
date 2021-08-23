@@ -13,3 +13,4 @@ hii i am here
 hiiiiiiiiiiiiiiiiiii
 i changed hello.txt file, now lets us see the changes by writing 
 git status
+modified -->git add--->staged 

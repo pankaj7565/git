@@ -15,3 +15,4 @@ i changed hello.txt file, now lets us see the changes by writing
 git status
 modified -->git add--->staged 
 hello right now i am available
+hello i ma panakj pal form jaigaon
